@@ -4,4 +4,4 @@
 
 $ pip install Pyrogram
 
-Дальше необходимо в файле config.ini поставить свои параметры
+Дальше необходимо в файле config.ini поставить свои параметры взятые с сайта my.telegram.org/auth
